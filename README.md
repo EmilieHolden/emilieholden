@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there👋
+Welcome to my Github page, my name is Emilie Holden. Im a frontend development student and kindergarten teacher.
+
+- 🔭 I’m currently working on student projects as a frontend development student at Noroff Education, online studies.
+- 🌱 I’m currently learning Javascript.
+- 👯 I’m interested in internships and job opportunities in Trondheim, Norway or remote.
+- 💬 I appreciate feedback on my projects.
+- 📫 How to reach me: 
+  - Email: e.393@hotmail.com
+  - Linkedin: https://www.linkedin.com/in/emilie-holden-4b0916312/
+
 
 <!--
 **EmilieHolden/emilieholden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
