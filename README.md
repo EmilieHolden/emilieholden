@@ -1,8 +1,8 @@
 ## Hi there👋
 Welcome to my Github page, my name is Emilie Holden. Im a frontend development student and kindergarten teacher.
 
-- 🔭 I’m currently working on student projects as a frontend development student at Noroff Education, online studies.
-- 🌱 I’m currently learning Javascript.
+- 🔭 I’m currently finishing my first year as a frontend development student at Noroff Education, online studies.
+- 🌱 I’m learning HTML, CSS and Javascript.
 - 👯 I’m interested in internships and job opportunities in Trondheim, Norway or remote.
 - 💬 I appreciate feedback on my projects.
 - 📫 How to reach me: 
